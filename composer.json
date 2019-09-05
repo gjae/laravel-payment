@@ -1,0 +1,22 @@
+{
+    "name": "gjae/laravel-payment",
+    "description": "A simple wrapper for laravel-payment",
+    "type": "library",
+    "require": {
+        "laravel/framework": "~5.5",
+        "laravel/tinker": "^1.0"
+    },
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Giovanny J. Avila E.",
+            "email": "gjavilae@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "autoload": {
+        "psr-4": {
+            "Classes\\" : "Classes/"
+        }
+    }
+}
