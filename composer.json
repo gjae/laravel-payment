@@ -6,7 +6,7 @@
         "laravel/framework": "~5.5",
         "laravel/tinker": "^1.0"
     },
-    "license": "GNU General Public License v3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Giovanny J. Avila E.",
