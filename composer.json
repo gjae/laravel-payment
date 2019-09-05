@@ -14,14 +14,10 @@
             "email": "gjavilae@gmail.com"
         }
     ],
-    "repositories": {
-        "type": "git",
-        "url": "https://github.com/gjae/laravel-payment.git"
-    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Classes\\" : "Classes/"
+            "Gjae\\LaravelPayment\\" : "Classes/"
         }
     }
 }

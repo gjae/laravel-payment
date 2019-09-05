@@ -1,6 +1,6 @@
 <?php
 
-namespace Classes\Providers;
+namespace Gjae\LaravelPayment\Classes\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
